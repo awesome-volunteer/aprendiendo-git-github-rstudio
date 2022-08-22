@@ -2,3 +2,5 @@
 
 Este es un repositorio de prueba para mostrar cómo utilizar Git con RStudio.
 
+Vamos a agregar una línea al repositorio principal.
+
